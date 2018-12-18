@@ -1,0 +1,62 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\2512909e_lcr4500_esd.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\DLP\LCR4500\LCR4500_REFHW_1.1\3_CAD_Files\Board Layout\20130502_LCR4500.brd")
+    ("Allegro Netlist Output Board File"
+       "C:\DLP\LCR4500\LCR4500_REFHW_1.1\3_CAD_Files\Board Layout\20130502_LCR4500_test.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\dlp\lcr4500\lcr4500_refhw_1.1\3_cad_files\board schematic\2512909e_lcr4500_esd.dsn")
+      (Path "Design Resources"
+         "c:\dlp\lcr4500\lcr4500_refhw_1.1\3_cad_files\board schematic\2512909e_lcr4500_esd.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\dlp\lcr4500\lcr4500_refhw_1.1\3_cad_files\board schematic\2512909e_lcr4500_esd.dsn"
+         "SCHEMATIC1" "PAGE-16  GPIO, I2C, LED CONTROL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -36 0 200 0 395"))
+      (Tab 0)))
+  (MPSSessionName "a0148788")
+  (ISPCBBASICLICENSE "false"))
